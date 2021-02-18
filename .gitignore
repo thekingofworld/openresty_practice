@@ -42,6 +42,7 @@ luac.out
 .idea
 client_body_temp
 fastcgi_temp
+local_temp
 logs
 proxy_temp
 scgi_temp
